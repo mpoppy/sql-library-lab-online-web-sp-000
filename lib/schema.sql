@@ -36,7 +36,3 @@ CREATE TABLE character_books (
   book_id INTEGER,
   character_id INTEGER
 )
-
-CREATE TABLE authors (
-  id INTEGER  PRIMARY KEY
-)
